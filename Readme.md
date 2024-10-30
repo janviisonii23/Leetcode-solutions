@@ -62,11 +62,12 @@ Welcome to the **LeetCode Solutions** repository! Contributions are open for Hac
 2. **Fork the Repository**: To contribute, fork the repository and make changes in the forked version.
 3. **Adhere to LeetCode's Problem Numbering**: When submitting a new solution, ensure that the file is named correctly using the problem's **exact title** and **number** (e.g., `1_Two_Sum.py`).
 4. **Solution Format**:
+   - Each solution must be added inside a folder structure, containing the readme or the explanation of the solution and the code.
    - Each solution must include a brief explanation or comments in the code.
    - The language of choice is Python, but contributions in C++, Java, and other languages are welcome.
-5. **Quality Over Quantity**: Ensure your solution is optimized and tested. Contributions with incorrect or untested code will be rejected.
-6. **No Duplicate Solutions**: Before submitting, check if a solution for that specific problem already exists. If it does, only provide a better or more optimized version.
-7. **Hacktoberfest Participation**: Make meaningful contributions! Please avoid spammy or irrelevant PRs just to get your Hacktoberfest count up. These will be marked invalid.
+6. **Quality Over Quantity**: Ensure your solution is optimized and tested. Contributions with incorrect or untested code will be rejected.
+7. **No Duplicate Solutions**: Before submitting, check if a solution for that specific problem already exists. If it does, only provide a better or more optimized version.
+8. **Hacktoberfest Participation**: Make meaningful contributions! Please avoid spammy or irrelevant PRs just to get your Hacktoberfest count up. These will be marked invalid.
 
 ---
 
